@@ -1,0 +1,24 @@
+*{
+    align-items: center;
+    justify-content: center;
+}
+
+.Perfil{
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+}
+
+
+.text1{
+    margin: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.contenedor{
+    text-align: center;
+    height: 40%;
+    
+}
